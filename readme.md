@@ -14,6 +14,6 @@
 git init
 ```
 
-stanley was here :D
+stanley was here :DD
 
 
